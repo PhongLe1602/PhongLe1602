@@ -26,14 +26,14 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
+  <a href="mailto:ckyeucunnl177@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Phong Le-email" />
+  </a>
   <a href="https://www.facebook.com/Trangcanhancua.phong.dungcopy.hi/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Phong Le-facebook" />
   </a>
   <a href="https://www.instagram.com/lephong1602/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Phong Le-instagram" />
-  </a>
-  <a href="mailto:ckyeucunnl177@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Phong Le-email" />
   </a>
 </div>
 
