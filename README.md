@@ -45,8 +45,8 @@
 </div>
 
 <br>
-# #✍️Nice quote:
-![width="1050px"](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# ✍️Nice quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Meme
 <img src="https://random-memer.herokuapp.com/" width="610px"/>
