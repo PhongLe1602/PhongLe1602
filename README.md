@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFDA&size=30&lines=Mafia+InTerNet+v:;Who+Are+You+?;Need+Not+To+Know+!;)](https://git.io/typing-svg)
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px> Drawn by W L O P
+## <img src = "https://i.pinimg.com/originals/38/1f/46/381f4629330478e322de72255a6cb47e.gif" width = 50px> Drawn by W L O P
 
 <a href="#" target="_blank">
   <img src="svg/ind.svg" width="1200" alt="ind.svg" />
