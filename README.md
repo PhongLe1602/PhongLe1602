@@ -39,15 +39,6 @@
 <br>
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="PhongLe" />
-</a>
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Phong1602&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Phong1602&theme=prussian&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phong1602&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
