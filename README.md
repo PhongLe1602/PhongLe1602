@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFDA&size=30&lines=Mafia+InTerNet+v:;Who+Are+You+?;Need+Not+To+Know+!;)](https://git.io/typing-svg)
 <a>
-  <img src="https://www.pinterest.com/pin/20266267064713489/">
+  <img src="https://i.pinimg.com/564x/d0/d9/9f/d0d99f6c025537f64c1bc5c61f5223ae.jpg">
 </a>
 <a href="#" target="_blank">
   <img src="svg/ind.svg" width="1200" alt="ind.svg" />
