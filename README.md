@@ -39,10 +39,10 @@
 
 <br>
 
-# ✍️Random Quote:
+# ✍️Nice quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Meme
+### 😂Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
