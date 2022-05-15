@@ -46,11 +46,11 @@
 
 <br>
 
-# ✍️Nice quote:
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+        # ✍️Nice quote:
+        ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Meme
-  <img src="https://random-memer.herokuapp.com/" width="512px"/>
+        ### 😂Meme
+        <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Phong1602&icon=0&color=0)](https://visitcount.itsvg.in)
