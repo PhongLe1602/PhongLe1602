@@ -1,4 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFDA&size=30&lines=Mafia+InTerNet+v:;Who+Are+You+?;Need+Not+To+Know+!;)](https://git.io/typing-svg)
+<a>
+  <img src="https://haycafe.vn/wp-content/uploads/2021/12/hinh-nen-hacker-anime-danh-cho-laptop.jpg">
+</a>
 <a href="#" target="_blank">
   <img src="svg/ind.svg" width="1200" alt="ind.svg" />
   <img src="https://haycafe.vn/wp-content/uploads/2021/12/hinh-nen-hacker-anime-danh-cho-laptop.jpg">
