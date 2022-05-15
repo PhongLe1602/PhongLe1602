@@ -2,7 +2,6 @@
 <a href="#" target="_blank">
   <img src="svg/ind.svg" width="1200" alt="ind.svg" />
   <img src="https://haycafe.vn/wp-content/uploads/2021/12/hinh-nen-hacker-anime-danh-cho-laptop.jpg">
-  <img src="https://www.pinterest.com/pin/27514247713180684/">
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
