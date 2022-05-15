@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFDA&size=30&lines=Mafia+InTerNet+v:;Who+Are+You+?;Need+Not+To+Know+!;)](https://git.io/typing-svg)
-## <img src = "https://i.pinimg.com/originals/38/1f/46/381f4629330478e322de72255a6cb47e.gif" width = 200px>
+## <img src = "https://i.pinimg.com/originals/38/1f/46/381f4629330478e322de72255a6cb47e.gif" width = 200px> BY LE VAN PHONG
 <a href="#" target="_blank">
   <img src="svg/ind.svg" width="1200" alt="ind.svg" />
 </a>
