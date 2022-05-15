@@ -43,12 +43,10 @@
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Phong Le-instagram" />
   </a>
 </div>
-# ✍️Nice quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Meme
-<img src="https://random-memer.herokuapp.com/" width="610px"/>
 
 <br>
+### 😂Meme
+<img src="https://random-memer.herokuapp.com/" width="610px"/>
+---
 [![](https://visitcount.itsvg.in/api?id=Phong1602&icon=0&color=0)](https://visitcount.itsvg.in)
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
