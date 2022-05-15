@@ -43,3 +43,17 @@
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="PhongLe" />
 </a>
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Phong1602&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Phong1602&theme=prussian&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phong1602&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Phong1602&icon=0&color=0)](https://visitcount.itsvg.in)
+
