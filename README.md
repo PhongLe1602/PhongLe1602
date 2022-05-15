@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=&size=30&lines=Mafia+InTerNet+v:;Who+Are+You+?;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FECC00&size=30&lines=Mafia+InTerNet+v:;Who+Are+You+?;)](https://git.io/typing-svg)
 <a href="#" target="_blank">
   <img src="svg/ind.svg" width="1200" alt="ind.svg" />
 </a>
