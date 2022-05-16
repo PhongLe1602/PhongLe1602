@@ -28,7 +28,7 @@
   </a>
 </div>
 
-<h2 align="center"> <img src = "https://i.pinimg.com/originals/c9/bc/98/c9bc987940c4fca69fc9047ebbd61e9c.gif" width = 35px> ConTact </h2>
+<h2 align="center"> <img src = "https://i.pinimg.com/originals/c9/bc/98/c9bc987940c4fca69fc9047ebbd61e9c.gif" width = 35px> ConTact <img src = "https://i.pinimg.com/originals/62/c9/3a/62c93a4cf6462f54fdea6d735d927f9c.gif" width = 28px </h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
