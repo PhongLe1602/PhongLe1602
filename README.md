@@ -29,7 +29,7 @@
   </a>
 </div>
 
-<h2 align="center"> 🤳ConTact🤳 </h2>
+<h2 align="center"> ConTact </h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
