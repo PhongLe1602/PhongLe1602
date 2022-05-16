@@ -29,7 +29,7 @@
   </a>
 </div>
 
-<h2 align="center"> ConTact </h2>
+<h2 align="center"> <img src = "https://i.pinimg.com/originals/c9/bc/98/c9bc987940c4fca69fc9047ebbd61e9c.gif" width = 35px> ConTact </h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
