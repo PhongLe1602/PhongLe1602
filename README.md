@@ -42,6 +42,9 @@
   <a href="https://www.instagram.com/lephong1602/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Phong Le-instagram" />
   </a>
+  <a href="https://www.youtube.com/channel/UCOhAcKK0HKyl2GOqKz44sfQ" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="PhongLe1602-youtobe" />
+  </a>
 </div>
 
 <br>
