@@ -1,4 +1,4 @@
-## <img src = "https://i.pinimg.com/originals/12/fc/d7/12fcd77d9d02550ba238fbf34b92e71f.gif" width = 120px> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFDA&size=30&lines=Mafia+InTerNet+v:;Who+Are+You+?;Need+Not+To+Know+!;)](https://git.io/typing-svg)
+## <img src = "https://i.pinimg.com/originals/12/fc/d7/12fcd77d9d02550ba238fbf34b92e71f.gif" width = 120 px> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFDA&size=30&lines=Mafia+InTerNet+v:;Who+Are+You+?;Need+Not+To+Know+!;)](https://git.io/typing-svg)
 <a href="#" target="_blank">
   <img src="svg/ind.svg" width="1200" alt="ind.svg" />
 </a>
@@ -28,7 +28,7 @@
   </a>
 </div>
 
-<h2 align="center"> <img src = "https://i.pinimg.com/originals/00/8f/77/008f7714546fac72d3f13cd7c9cb07f5.gif" width = 35px> ConTact <img src = "https://i.pinimg.com/originals/d6/05/32/d60532a08c1cf212f04c7bdf05bdeb90.gif" width = 35px </h2>
+<h2 align="center"> <img src = "https://i.pinimg.com/originals/00/8f/77/008f7714546fac72d3f13cd7c9cb07f5.gif" width = 35 px> ConTact <img src = "https://i.pinimg.com/originals/d6/05/32/d60532a08c1cf212f04c7bdf05bdeb90.gif" width = 35 px </h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
