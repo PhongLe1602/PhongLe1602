@@ -1,6 +1,7 @@
 ## <img src = "https://i.pinimg.com/originals/12/fc/d7/12fcd77d9d02550ba238fbf34b92e71f.gif" width = 120 px> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFDA&size=30&lines=Hi+!+I'm+Le+Van+Phong;Well+Come+To+Wall+<3;)](https://git.io/typing-svg)
 <div align="center"><img src = "https://i.pinimg.com/originals/b7/df/4b/b7df4bdc4c5d2dc5ca613bc5a177304a.gif" width = 2000 px> 
 <br>
+ <h2 align="center">👽Language👽</h2>
 <!-- https://simpleicons.org/ -->
 <div align="center">
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=#A8B9CC" alt="c logo" title="C" height="25" /></span>&nbsp;
@@ -18,7 +19,6 @@
     <br>
   </a>
 </div>
-<h2 align="center">👽Language👽</h2>
 <a href="#" title="PhongLe1602"><img width="350"src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongle1602&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   <a href="#" title="PhongLe1602">
     <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=phongle1602&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
