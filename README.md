@@ -1,11 +1,9 @@
-## <img src = "https://i.pinimg.com/originals/12/fc/d7/12fcd77d9d02550ba238fbf34b92e71f.gif" width = 120 px> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFDA&size=30&lines=Mafia+InTerNet+v:;Who+Are+You+?;Need+Not+To+Know+!;)](https://git.io/typing-svg)
-<a href="#" target="_blank">
-  <img src="svg/ind.svg" width="1200" alt="ind.svg" />
-</a>
-
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+## <img src = "https://i.pinimg.com/originals/12/fc/d7/12fcd77d9d02550ba238fbf34b92e71f.gif" width = 120 px> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFDA&size=30&lines=Hi+!+I'm+Le+Van+Phong;Well+Come+To+Wall+<3;)](https://git.io/typing-svg)
+<div align="center">
+## <img src = "https://i.pinimg.com/originals/b7/df/4b/b7df4bdc4c5d2dc5ca613bc5a177304a.gif" width = 2000 px> 
 <br>
 <!-- https://simpleicons.org/ -->
+<div align="center">
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=#A8B9CC" alt="c logo" title="C" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=#00599C" alt="C++ logo" title="C++" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=#007396" alt="Java logo" title="JavaScript" height="25" /></span>&nbsp;
@@ -28,7 +26,8 @@
   </a>
 </div>
 
-<h2 align="center"> <img src = "https://i.pinimg.com/originals/00/8f/77/008f7714546fac72d3f13cd7c9cb07f5.gif" width = 35 px> ConTact <img src = "https://i.pinimg.com/originals/d6/05/32/d60532a08c1cf212f04c7bdf05bdeb90.gif" width = 35 px </h2>
+<h2 align="center"> 
+<img src = "https://i.pinimg.com/originals/00/8f/77/008f7714546fac72d3f13cd7c9cb07f5.gif" width = 35 px> ConTact <img src = "https://i.pinimg.com/originals/d6/05/32/d60532a08c1cf212f04c7bdf05bdeb90.gif" width = 35 px </h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -49,5 +48,4 @@
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=Phong1602&icon=0&color=0)](https://visitcount.itsvg.in)
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  ## <img src = "https://i.pinimg.com/originals/45/a6/e9/45a6e9ba1fd2d9b631cb7a4f4ab6dced.gif" width = 13000px> 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
