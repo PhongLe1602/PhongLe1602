@@ -16,7 +16,6 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code"height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 
-<div align=center>
     <a href="#" title="LePhong1602">
     <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhongLe1602&hide=c%23,powershell,Mathematica,Ruby,Objective-    C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
      </a>
