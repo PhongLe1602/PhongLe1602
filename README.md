@@ -1,9 +1,8 @@
 ## <img src = "https://i.pinimg.com/originals/12/fc/d7/12fcd77d9d02550ba238fbf34b92e71f.gif" width = 120 px> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFDA&size=30&lines=Hi+!+I'm+Le+Van+Phong;Well+Come+To+Wall+<3;)](https://git.io/typing-svg)
-<div align="center"><img src = "https://i.pinimg.com/originals/b7/df/4b/b7df4bdc4c5d2dc5ca613bc5a177304a.gif" width = 1000 px> 
 <br>
- <h2 align="center"> <3 Language <3</h2>
+ <h2 align=""> Language </h2>
 <!-- https://simpleicons.org/ -->
-<div align="center">
+<div align="">
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=#A8B9CC" alt="c logo" title="C" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=#00599C" alt="C++ logo" title="C++" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=#007396" alt="Java logo" title="JavaScript" height="25" /></span>&nbsp;
