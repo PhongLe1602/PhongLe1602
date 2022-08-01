@@ -1,4 +1,5 @@
 ## <img src = "https://i.pinimg.com/originals/12/fc/d7/12fcd77d9d02550ba238fbf34b92e71f.gif" width = 120 px> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFDA&size=30&lines=Hi+!+I'm+Le+Van+Phong;Well+Come+To+Wall+<3;)](https://git.io/typing-svg)
+   ![df2u67r-ca6bc40e-397c-425a-b31d-a548da7c6fdc](https://i.pinimg.com/564x/04/d0/74/04d074adeac3e6901c52018c45ddc96e.jpg)
 <br>
  <h2 align=""> Language </h2>
 <!-- https://simpleicons.org/ -->
