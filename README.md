@@ -24,7 +24,7 @@
   </a>
 <br>
 <br>
- <h2 align="center">👽ConTact👽</h2>
+ <h2 align="">ConTact</h2>
 <!-- https://icons8.com -->
 <div align="center">
  <a href="mailto:ckyeucunnl177@gmail.com" target="top">
