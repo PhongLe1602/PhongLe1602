@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFDA&size=30&lines=Hi+!+I'm+Le+Van+Phong;Well+Come+To+Wall+<3;)](https://git.io/typing-svg)
    ![df2u67r-ca6bc40e-397c-425a-b31d-a548da7c6fdc](https://i.pinimg.com/564x/14/88/bb/1488bbdd4c836ce1f9bc314fb2b7fcab.jpg)
 <br>
- <h2 align=""> Language </h2>
+ <h2 align=""> Language: </h2>
 <!-- https://simpleicons.org/ -->
 <div align="">
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=#A8B9CC" alt="c logo" title="C" height="25" /></span>&nbsp;
@@ -25,9 +25,7 @@
   </a> 
    
  ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=Phongle1602&theme=radical)
-   
-<br>
- <h2 align="">ConTact</h2>
+ <h2 align="">ConTact:</h2>
 <!-- https://icons8.com -->
 <div align="center">
  <a href="mailto:ckyeucunnl177@gmail.com" target="top">
