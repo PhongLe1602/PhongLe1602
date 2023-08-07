@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFDA&size=30&lines=Hi+!+I'm+Le+Van+Phong;Well+Come+To+Wall+<3;)](https://git.io/typing-svg)
-   ![df2u67r-ca6bc40e-397c-425a-b31d-a548da7c6fdc](https://i.pinimg.com/564x/14/88/bb/1488bbdd4c836ce1f9bc314fb2b7fcab.jpg)
+   ![df2u67r-ca6bc40e-397c-425a-b31d-a548da7c6fdc](https://i.pinimg.com/564x/15/9d/77/159d77e36af2325f9f50dd815465981f.jpg)
 <br>
  <h2 align=""> Language: </h2>
 <!-- https://simpleicons.org/ -->
