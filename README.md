@@ -23,8 +23,7 @@
   <a href="#" title="PhongLe1602">
     <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=phongle1602&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a> 
-   
- ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=Phongle1602&theme=radical)
+
  <h2 align="">ConTact:</h2>
 <!-- https://icons8.com -->
 <div align="center">
