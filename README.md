@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFDA&size=30&lines=Hi+!+I'm+Le+Van+Phong;Well+Come+To+Wall+<3;)](https://git.io/typing-svg)
-  <img src="https://i.pinimg.com/564x/3e/5a/94/3e5a942030198d237ec45c84cd366073.jpg" alt="" style="width: 100%; margin-right: 200%;">
+  <img src="https://i.pinimg.com/564x/7d/ce/21/7dce215b96941108b63bfb10171766ab.jpg" alt="" style="width: 100%; margin-right: 200%;">
 
 <br>
 <!-- <h2 align=""> Language: </h2> -->
