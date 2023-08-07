@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFDA&size=30&lines=Hi+!+I'm+Le+Van+Phong;Well+Come+To+Wall+<3;)](https://git.io/typing-svg)
   <img src="https://i.pinimg.com/564x/99/49/14/994914243227cbf3d1374c331a7c62f5.jpg" alt="" style="width: 100%; margin-right: 200%;">
-![Cloud](https://github.com/PhongLe1602/AWS/blob/77ccb9189a8554f5d8ae736423b6e6a2dfa764ae/GIFMaker_me.gif)
+<img src="https://github.com/PhongLe1602/AWS/raw/77ccb9189a8554f5d8ae736423b6e6a2dfa764ae/GIFMaker_me.gif" alt="Cloud style="width: 100%>
+
 <br>
 <!-- <h2 align=""> Language: </h2> -->
 <!-- https://simpleicons.org/ -->
