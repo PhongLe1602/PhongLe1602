@@ -1,10 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFDA&size=30&lines=Hi+!+I'm+Le+Van+Phong;Well+Come+To+Wall+<3;)](https://git.io/typing-svg)
    ![df2u67r-ca6bc40e-397c-425a-b31d-a548da7c6fdc](https://i.pinimg.com/564x/90/90/7e/90907e1699efe5979d856901fdb20b09.jpg)
-  
 <br>
- <h2 align=""> Language: </h2>
+<!-- <h2 align=""> Language: </h2> -->
 <!-- https://simpleicons.org/ -->
-<div align="">
+<!-- <div align="">
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=#A8B9CC" alt="c logo" title="C" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=#00599C" alt="C++ logo" title="C++" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=#007396" alt="Java logo" title="JavaScript" height="25" /></span>&nbsp;
@@ -23,7 +22,7 @@
 <a href="#" title="PhongLe1602"><img width="350"src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongle1602&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   <a href="#" title="PhongLe1602">
     <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=phongle1602&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a> 
+  </a> -->
 
  <h2 align="">ConTact:</h2>
 <!-- https://icons8.com -->
